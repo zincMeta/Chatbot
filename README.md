@@ -15,5 +15,8 @@ Example : xhr.setRequestHeader('x-rapidapi-key', '33a40efe94msh5a6631a28783b9bp1
 API KEY : 33a40efe94msh5a6631a28783b9bp1f1814jsncf9d1e0b47bf;
 
 # 3
-Ahead back to the project and in the javascript code where it says " xhr.setRequestHeader('x-rapidapi-key', '33a40efe94msh5a6631a28783b9bp1f1814jsncf9d1e0b47bf') "
+Ahead back to the project and in the javascript code where it says 
+
+" xhr.setRequestHeader('x-rapidapi-key', '33a40efe94msh5a6631a28783b9bp1f1814jsncf9d1e0b47bf') "
+
 Just replace the x-rapidapi-key with your new one and your good to go.
