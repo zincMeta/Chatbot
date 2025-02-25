@@ -11,6 +11,7 @@ there is a free plan avaliabe, but if you want you can use a paid plan as well.
 Once subscibed you can copy your api key for the code snippet for javascript.
 
 Example : xhr.setRequestHeader('x-rapidapi-key', '33a40efe94msh5a6631a28783b9bp1f1814jsncf9d1e0b47bf'); 
+
 API KEY : 33a40efe94msh5a6631a28783b9bp1f1814jsncf9d1e0b47bf;
 
 # 3
